@@ -1,0 +1,33 @@
+.logo{
+	/* Styles pour le logo dans la barre de navigation */
+	margin-top: 20px;
+	margin-left: 42%;
+}
+.nav-bar{
+    margin-left: 30%;
+	margin-top: 40px;
+}
+header{
+	border-color: #eb984e ;
+	align-items: center;
+}
+.nav-bar a{
+	text-decoration: none ;
+}
+.nav-bar a:hover:not(.active){
+	background-color:#f9e79f ;
+}
+.active{
+	color:#ba4a00 ;
+}
+nav a{
+    color:black;
+    font-family: "Lucida Console", "Courier New", monospace;
+	font-size: 20px;
+	margin-right: 20px;
+}
+body{
+	background-image: url(../images/background1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
