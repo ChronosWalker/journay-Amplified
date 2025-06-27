@@ -1,1 +1,1 @@
-# journay-Amplified
+# journey-Amplified
